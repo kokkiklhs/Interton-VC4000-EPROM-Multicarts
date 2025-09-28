@@ -2,7 +2,7 @@
 
 Experimental EPROM-based carts in 2 flavours for the Interton VC4000 retro console and compatibles, based on 27256.
 First one comes with triple DIP-switches and is for 8x4KB games, second comes with quadruple DIP-switches and is for 16x2KB games.
-These carts are ESPECIALLY DESIGNED for the Interton VC4000 (and Grundig Super Play 4000 Computer, maybe also others) with the unusual 1x31 connector facing the rear side and is NOT suitable for consoles like Radofin, which are software-compatible, but with different, two-sided connectors.
+These carts are ESPECIALLY DESIGNED for the Interton VC4000 (and Grundig Super Play 4000 Computer, maybe also others) with the unusual 1x31 connector facing the rear side and is NOT suitable for consoles like Radofin, which are software-compatible, but with different, two-sided connectors. And YES, the front side has NOT an edge connector, this is how it's supposed to be...
 
 Simple schematics, easy to build projects and at a very low cost. An EPROM programmer is needed in order to feed the EPROM with the games required. Just chain eight 4KB (4096 bytes long) or sixteen 2KB (2048 bytes long) game files to each other with some suitable utility proggy (e.g. WinHEX editor for Windoze) and burn the resulting 32KB .bin file to a 27256. I have included two sample 32KB .bin file here, each one suitable for the corresponding cart flavour, ready to be written on empty EPROMs.
 
