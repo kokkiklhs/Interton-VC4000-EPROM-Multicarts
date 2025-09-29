@@ -9,3 +9,5 @@ Simple schematics, easy to build projects and at a very low cost. An EPROM progr
 Games larger than 4KB are NOT supported and in case you want to include game files with size LESS than 4KB each on the 8x4KB cart version, remember to convert them to exactly 4K by adding some zeros after the end of the game file. The same applies for files with length less than 2048 bytes for the 16x2KB version of the cart. N.B. that the latter (of course) does not support games bigger than 2KB... I was very lazy to try and design an all-in one (with switchable 2 or 4K banks) cart, so I simply made two of them. :-)
 
 NOTE: This PCB has NOT been tested yet by me on real hardware, but the schematic is correct and the connector size is accurate, so why not give it a try?
+
+Disclaimer: No responsibility at all from my side if these don't work for you as expected, or if you blow up your equipment or if you burn your residence/whole neighbourhood trying to use one of these! This is a pure hobbyist project done during my spare time, I am not an expert or professional, so use these 100% at your own risk!
